@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heyhe\\development\\FinancialDashboard\\FinancialDashboard.csproj": {}
+    "C:\\Users\\heyhe\\development\\financial-dashboard\\FinancialDashboard\\FinancialDashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heyhe\\development\\FinancialDashboard\\FinancialDashboard.csproj": {
+    "C:\\Users\\heyhe\\development\\financial-dashboard\\FinancialDashboard\\FinancialDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heyhe\\development\\FinancialDashboard\\FinancialDashboard.csproj",
+        "projectUniqueName": "C:\\Users\\heyhe\\development\\financial-dashboard\\FinancialDashboard\\FinancialDashboard.csproj",
         "projectName": "FinancialDashboard",
-        "projectPath": "C:\\Users\\heyhe\\development\\FinancialDashboard\\FinancialDashboard.csproj",
+        "projectPath": "C:\\Users\\heyhe\\development\\financial-dashboard\\FinancialDashboard\\FinancialDashboard.csproj",
         "packagesPath": "C:\\Users\\heyhe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heyhe\\development\\FinancialDashboard\\obj\\",
+        "outputPath": "C:\\Users\\heyhe\\development\\financial-dashboard\\FinancialDashboard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
