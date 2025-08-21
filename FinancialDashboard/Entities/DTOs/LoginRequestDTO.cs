@@ -1,7 +1,9 @@
-﻿namespace FinancialDashboard.Entities.DTOs
-    using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace FinancialDashboard.Entities.DTOs
+    
 {
-    public class LoginModelDTO
+    public class LoginRequestDTO
     {
         [Required]
         [EmailAddress(ErrorMessage = "Invalid Email Address.")]

@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "FinancialDashboard.Controllers.HomeController",
-    "Method": "GetMessage",
-    "RelativePath": "api/Home",
+    "ContainingType": "FinancialDashboard.Controllers.AuthController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "api/Auth",
     "HttpMethod": "",
     "IsController": true,
     "Order": 0,

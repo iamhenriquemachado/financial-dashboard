@@ -9,7 +9,7 @@ namespace FinancialDashboard.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<User> User { get; set; }
-        public DbSet<LoginModelDTO>  LoginModelDTO { get; set; }
+        public DbSet<LoginRequestDTO>  LoginModelDTO { get; set; }
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
