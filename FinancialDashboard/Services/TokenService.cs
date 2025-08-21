@@ -35,7 +35,7 @@ namespace FinancialDashboard.Services
 
             if (string.IsNullOrEmpty(_jwtSettings.SecretKey) || _jwtSettings.SecretKey.Length < 16)
             {
-                throw new ArgumentException("A chave secreta do JWT não é válida ou é muito curta.");
+                throw new ArgumentException("Invalid JWT Secret Key. Please, check the length.");
             }
         }
 
